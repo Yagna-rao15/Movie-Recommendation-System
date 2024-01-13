@@ -8,5 +8,5 @@ The system comprises two parts. The first is movie-based recommendation, where y
 
 The second part uses user-based recommendation. Previous watch history or favorite movies are required for this. Users are divided into clusters based on their ratings and favorite movies. Top-rated movies among the cluster and movies related to them are recommended to all users in the cluster. There's an option to ignore already watched movies. The system is encapsulated in a function to integrate with a Telegram chat bot, serving as the interface. The bot is currently inactive, and I recommend setting up your own bot and entering the API key. You can also use it without Telegram by passing parameters directly into the function, as shown in the example.
 
-The dataset comprises over 45,000 movies in 26 different languages. I have provided documentation for the project. I hope you find it helpful. Thank you for stopping by! ✌️ __...  Yagna Rao
+The dataset [(The Movies)[https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?resource=download]] comprises over 45,000 movies in 26 different languages. I have provided documentation for the project. I hope you find it helpful. Thank you for stopping by! ✌️ __...  Yagna Rao
 
